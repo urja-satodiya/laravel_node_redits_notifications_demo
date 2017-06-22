@@ -1,0 +1,30 @@
+{
+  "name": "laravel_node_demo",
+  "version": "1.0.0",
+  "description": "This is the example to realtime notification using node redis and laravel.",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.7.1",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "test",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urja-ramani/laravel_node_redits_notifications_demo.git"
+  },
+  "keywords": [
+    "laravel",
+    "nodejs",
+    "redit",
+    "realtime-notification"
+  ],
+  "bugs": {
+    "url": "https://github.com/urja-ramani/laravel_node_redits_notifications_demo/issues"
+  },
+  "homepage": "https://github.com/urja-ramani/laravel_node_redits_notifications_demo#readme"
+}
